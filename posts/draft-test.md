@@ -2,7 +2,7 @@
 title: "Draft test"
 author: "Nil Gradisnik"
 date: "10-25-2013"
-draft: false
+draft: true
 tags: ["news"]
 ---
 
