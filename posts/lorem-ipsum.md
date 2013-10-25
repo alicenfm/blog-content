@@ -1,5 +1,5 @@
 ---
-title: "Lorem ipsum test"
+title: "Lorem ipsum test2"
 author: "Nil Gradisnik"
 date: "10-24-2013"
 draft: false
