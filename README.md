@@ -2,8 +2,11 @@
 This is a part of the blog-experiment project. It's intended to be used as a git submodule. It contains blog content - posts.
 The blog engine is powered by [Poet](https://github.com/jsantell/poet) you can find more info there.
 
-## Files
-Each [Markdown](http://daringfireball.net/projects/markdown/syntax) file inside the `posts` folder represents a post.
+## Github Service Hook
+Go to this repository settings and under 'Service Hooks' section you will find 'WebHook URLs'. Add an URL of your blog-experiment deployed web server with the URI ending '/github-webhook/update' or whatever is defined in the config.json.
+
+## Creating blog posts
+Each [Markdown](http://daringfireball.net/projects/markdown/syntax) file inside the `posts` folder represents a post. You can simply add/edit markdown files using Github website.
 
 **Note:** The filename is important since it gets translated to the actual permalink URL to that post.
 
