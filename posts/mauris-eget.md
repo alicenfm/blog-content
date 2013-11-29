@@ -1,15 +1,43 @@
 ---
-title: "Mauris eget"
-author: "Nil Gradisnik"
-date: "10-23-2013"
-draft: false
-tags: ["news"]
+title: "Redcrest Resort"
+date: "11-25-2013"
 ---
 
-Mauris eget ornare purus. Nunc dapibus, nibh eget rutrum mollis, nunc lacus sodales tortor, at interdum elit arcu a ipsum. Fusce sem ipsum, dictum vitae quam sit amet, tincidunt sodales metus. Quisque sit amet risus at lacus pharetra mollis. Quisque eget gravida mi. Suspendisse eu aliquam tellus. Curabitur porttitor gravida mauris vitae dapibus. Aenean blandit, tellus nec consectetur rhoncus, felis velit egestas dolor, interdum pellentesque dolor erat sit amet magna. Nullam elit arcu, convallis eu sollicitudin ut, volutpat non dui. Donec facilisis nibh gravida elit dapibus, ut dignissim mi convallis. Nam viverra consectetur dui, in imperdiet erat condimentum vitae. Etiam adipiscing ipsum vitae mollis facilisis.
+We had such an amazing time in Redcrest last weekend. After about a 5 and a half hour drive – we hit some traffic along the way – we got to our cabin at 10:30pm on Friday. The car ride didn’t seem that long – at least not for me – because we were having fun talking and listening to music the whole time. Jess brought sandwiches and snacks for everyone so we didn’t even have to stop anywhere along the way. Once we got there, we unpacked our things and marveled at our cute cabin for awhile before we watched Poltergeist (because when you’re staying in a cabin nestled almost in the middle of the wilderness, you should try to terrify yourself). I’ve never seen Poltergeist and Nil said it was good – but we realized that it was probably better back in the early 80s, when special effects weren’t as high tech. :)
+
+We started our Saturday with a nice breakfast that Jess so wonderfully prepared (you’ll see a photo, of course). Then we explored the resort grounds and played some lawn games for awhile – they had horse shoes, tetherball, ping pong, frisbee, a bean bag toss, etc. Mostly it was just nice to be surrounded by huge trees and smelling the crisp air from being in the great outdoors. Even the water from the faucet tasted perfect. :) And the “town” itself wasn’t even a town – it was just one road, with only one gravel street shooting off of it. The “downtown” consisted of just the cabin resort, 2 gift shops, and at most 5 houses. There was no cellphone service for miles, and I honestly don’t know where they got gas or groceries! If it weren’t so beautiful there, it might have been a bit creepy – ha!
+
+Eventually we had to drive down the road for about 15 minutes so that we could find cellphone service – none of us had any service while we were at our cabin, but we all appreciated that. Once we finally got into service range (by the way, Jess was the only one to get service, and it took me over an hour or so on the way home to get anything!) we pulled off onto the side of the road in front of an organic farm so that we could call our friends Meg and Trish (who were meeting us at the cabin later) and give them details on how to find us.
+
+After we made contact with the outside world, we wandered around looking for a place to hike and found a nice mild trail – with no incline – that took about 2 hours to walk through. I think it goes without saying that redwoods are incredible and I can’t believe I got to see them in real life. It’s hard to conceive that a tree could ever be so big! We all felt so little walking around such enormous things.
+
+After the trail, we headed back to the cabin and relaxed for a bit before Meg and Tricia got there (they had gone an extra hour north first to see another redwood forest). Soon after they got there we all enjoyed a great (and very meaty) dinner that we made on the grill out front – steak, chicken, hot dogs, and vegetables. Yum!
+
+After stuffing ourselves with our dinner feast (which Gavin and Nil deserve most of the credit for), we spent our night entertaining ourselves with good old-fashioned games – technology free! The first game we played was Who Am I?, where each person writes a famous person’s name onto a sticky note and passes it to the person on the right, and that person puts that note on their forehead without looking. Then, you ask “yes” or “no” questions to figure out who you are. You’ll see a few photos of us with bright yellow squares on our faces – that’s why :)
+
+The next day we checked out of the cabin and decided to slowly make our way back to San Francisco, stopping along the way at a bunch of roadside attractions (this route is famous for them). We got to see the Grandfather Tree (an enormous old, old redwood tree) the Gravity House at Confusion Hill (a house built to give visitors the feeling of weird gravitational pulls – water flowed upright, and when we stood up straight, we were actually leaning over) – and a few other places that you’ll see in the photos.
+
+Finally, we sadly made our way back to San Francisco… but we’re definitely going back to Redcrest some day because we loved it there so much. In fact, I enjoyed it so much that when we had to leave, I was starting to doubt my life choices and questioning whether I’d rather live out in the wilderness instead of the big city!
+
+Click on the photo below to see the whole album :)
+
+Imeli smo se cudovit vikend v Redcrest prejšnji vikend. Po približno 5 in pol ure vožnje – smo zadeli nekaj prometa na poti – ampak smo prišli do naše koče ob 10:30 uri v petek. Vožnja z avtom je milina kar hitro – vsaj zame – ker smo se zabavali in pogovarjali in poslusali glasbo ves čas . Jess prinesla sendviče in prigrizke za vse, tako da skoraj nikjer
+nismo rabili ustaviti. Ko smo prišli tja , smo razpakirali svoje stvari in obcudovali našo srčkan kabino nekaj časa, potem smo pa gledali filem Poltergeist (ker seveda ko si sredi gozdov v koci je pametno gledati grozljivke, da te je se bolj strah). Še nikoli nisem gledala Poltergeist ampak Nil je dober film – vendar smo ugotovili, da je bil verjetno bolj zanimiv takrat v zgodnjih 80. letih, ko so posebni učinki bili bolj impresivni :)
+
+Soboto smo zaceli z lepim zajtrkom, ki ga je Jess tako čudovito pripravila ( boste videli fotografijo , seveda ) . Potem smo raziskali okolico nasega resorta in odigrali nekaj iger zunaj na travi za nekaj časa – imeli so konjske čevlje, kolovrat, namizni tenis , frizbi , metanje vrecke v luknjo, itd. Lepo je bilo biti obkrožen z velikimi drevesi in vonjem po svežem zraku in biti veliko na prostem . Tudi voda iz pipe je imela odlicek okus. :) In ” mesto ” samo po sebi ni bilo niti mesto – to je bila le ena cesta , samo ena gramozna cesta. ” Center ” je bil samo letovišče kabin, 2 trgovini z spominki in največ 5 hiš . Ni bilo mobitel omrezja vec milj stran in iskreno ne vem, od kje sploh dobijo becin in hrano! Če ne bi bilo tako lepo tam , bi bilomalo čudno – ha !
+
+Navsezadnje smo se morali peljai po cesti, približno 15 minut stram, da smo našli mobitel omrezje – nihče od nas ni imel omrezja ves čas v koči , vendar smo vsi cenili to da smo brez interneta. Dobra staromodna zabava! Ko smo končno dobili omrezje (mimogrede , je Jesss je bila edina ki je dobila omrezje , jaz sem sele kaksno uro ko smo se pejlali domov v nedeljo!) smo se ustavili ob strani ceste pred organsko kmetijo , koliko da smo sporocili naši prijateljici Meg in Trish (ki sta prisli v kočo malo kasneje) in jim dali podatke o tem, kako priti do nas .
+
+Potem ko smo jima dali navodila, smo hodil okoli in iskali kraje za pohod in našeli lepo pot – brez prevelikega naklona – pohod je bil približno 2 uri. Mislim, da je samoumevno , da so Redwoods neverjetno in ne morem verjeti, da sem jih videla v zivo. Težko si je zamisliti , da so drevesa lahko tako velika! Vsi smo se počutili tako malo, ko smo se sprehajali okoli takih ogromnih dreves.
+
+Po poti smo se odpravili nazaj do koče in se malo relaksirali preden sta prisli Meg in Tricia ( oni dve sta sle se dodatno uro severno najprej pogledat se en drugacen Redwood gozd ) . Kmalu po tem, ko so se zbrali tam smo vsi imeli veliko ( in zelo mesnato ), večerjo , ki smo jo dali na žar pred koco – zrezek , piščanec , hrenovke in zelenjava . Yum !
+
+Po tem ko smo se najedli ( zasluge gredo Gavinu in Nilu), smo se zabavali z dobrimi starimi staromodnimi igrami – brez tehnologije! Prvo igra je bila Who Am I ? , Vsaka oseba napise ime slavne osebe na listek in jo prenese na osebo, na desni strani , in ta oseba si prilepi listek na čelo, ne da ga pogleda . Potem , si vprašal “da” ali “ne” vprašanja , da ugotovimo, kdo si . Boste videli nekaj fotografij nam s svetlo rumene kvadrate na naših obrazih – to je to :)
+
+Naslednji dan smo se odjavil iz kabine in se odločil , da gremo počasi nazaj v San Francisco , na poti smo se ustavili na par obcestnih znamenitosti ( ta pot je znana po tem ) . Videli smo Grandfather drevo (ogromna stara , stara sekvoja ) Hiša Gravitacije na Confusion Hill (hiša zgrajena , da bi obiskovalcem občutek čudnih gravitacijskih potegih – voda tekla v pokončnem položaju , in ko sva stala pokonci , smo bili dejansko postrani ) – in še nekaj drugih krajev, ki jih lahko vidite na fotografijah .
+
+Na žalost smo se morali vrniti v San Francisco … vendar se bomo zagotovo vrnili v Redcrest nekega dne , ker nam je všeč tam zelo. V bistvu sem uživala tako , da sem  začela dvomiti v zivljensko odlocitev in se zacela sprasevati ali bi raje živela na podezelju namesto v velikem mestu!
+
+Klikni na sliko za cel album :) 
 
 <!--more-->
-
-## Mauris eget ornare purus
-
-Mauris eget ornare purus. Nunc dapibus, nibh eget rutrum mollis, nunc lacus sodales tortor, at interdum elit arcu a ipsum. Fusce sem ipsum, dictum vitae quam sit amet, tincidunt sodales metus. Quisque sit amet risus at lacus pharetra mollis. Quisque eget gravida mi. Suspendisse eu aliquam tellus. Curabitur porttitor gravida mauris vitae dapibus. Aenean blandit, tellus nec consectetur rhoncus, felis velit egestas dolor, interdum pellentesque dolor erat sit amet magna. Nullam elit arcu, convallis eu sollicitudin ut, volutpat non dui. Donec facilisis nibh gravida elit dapibus, ut dignissim mi convallis. Nam viverra consectetur dui, in imperdiet erat condimentum vitae. Etiam adipiscing ipsum vitae mollis facilisis.
